@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "1766861660347",
-      "title": "j",
-      "content": "k",
-      "category": "announcement",
-      "date": "2025-12-27T18:53:36.538Z",
-      "image": "https://raw.githubusercontent.com/Johnnie-codes/kenema-content/main/images/1766861650961-ChatGPT Image Dec 9, 2025, 12_28_38 PM.png",
-      "createdAt": "2025-12-27T18:54:20.347Z",
-      "updatedAt": "2025-12-27T18:54:20.347Z"
-    },
-    {
       "id": "1766861588879",
       "title": "hey",
       "content": "hey",
@@ -31,5 +21,5 @@
       "image": "https://raw.githubusercontent.com/Johnnie-codes/kenema-content/main/images/1766926822727-IMG-20250721-WA0002.jpg"
     }
   ],
-  "lastUpdated": "2025-12-28T13:00:25.197Z"
+  "lastUpdated": "2025-12-31T07:09:46.235Z"
 }

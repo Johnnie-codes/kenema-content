@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "id": "1768288606370",
-      "title": "l",
-      "excerpt": "l",
-      "content": [
-        "lllllllllllllllllllllllllllllllllll"
-      ],
-      "category": "Community",
-      "date": "2026-01-13T07:14:00.394Z",
-      "image": "https://raw.githubusercontent.com/Johnnie-codes/kenema-content/main/images/1768288604188-IMG-20250721-WA0003.jpg",
-      "featured": false,
-      "createdAt": "2026-01-13T07:16:46.370Z",
-      "updatedAt": "2026-01-13T07:16:46.370Z"
-    },
-    {
       "id": "1768288396007",
       "title": "hello there",
       "excerpt": "ajskdhajksdhjkahdkjash jkasdkjashdj kjashdkjashjkdha jasdhaskjdhakj",
@@ -39,5 +25,5 @@
       "updatedAt": "2025-12-27T18:53:08.879Z"
     }
   ],
-  "lastUpdated": "2026-01-13T07:16:46.370Z"
+  "lastUpdated": "2026-01-13T09:04:27.460Z"
 }

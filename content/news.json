@@ -29,9 +29,9 @@
       "category": "Technology",
       "date": "2026-01-15T17:04:41.607Z",
       "image": "",
-      "featured": true,
+      "featured": false,
       "createdAt": "2026-01-15T17:11:02.002Z",
-      "updatedAt": "2026-01-15T17:11:02.002Z"
+      "updatedAt": "2026-01-15T17:14:00.840Z"
     },
     {
       "id": "1768295214297",
@@ -72,5 +72,5 @@
       "updatedAt": "2025-12-27T18:53:08.879Z"
     }
   ],
-  "lastUpdated": "2026-01-15T17:12:38.304Z"
+  "lastUpdated": "2026-01-15T17:14:00.840Z"
 }

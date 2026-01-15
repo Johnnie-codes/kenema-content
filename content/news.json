@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "1768497158304",
+      "title": "sajbda",
+      "excerpt": "asbdjabj",
+      "content": [
+        "jabs"
+      ],
+      "category": "Community",
+      "date": "2026-01-15T17:11:16.945Z",
+      "image": "https://raw.githubusercontent.com/Johnnie-codes/kenema-content/main/images/1768497148695-WhatsApp Image 2026-01-11 at 9.35.05 AM.jpeg",
+      "featured": false,
+      "createdAt": "2026-01-15T17:12:38.304Z",
+      "updatedAt": "2026-01-15T17:12:38.304Z"
+    },
+    {
       "id": "1768497062002",
       "title": "kenemA GRAD",
       "excerpt": "Kenema software launch",
@@ -58,5 +72,5 @@
       "updatedAt": "2025-12-27T18:53:08.879Z"
     }
   ],
-  "lastUpdated": "2026-01-15T17:11:02.003Z"
+  "lastUpdated": "2026-01-15T17:12:38.304Z"
 }

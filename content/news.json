@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "id": "1768497062002",
+      "title": "kenemA GRAD",
+      "excerpt": "Kenema software launch",
+      "content": [
+        "Today, we proudly inaugurated the #Kenema_Pharmacy_Management_System, a comprehensive digital solution designed to modernize and integrate pharmacy operations across our network. The inauguration ceremony was honored by the presence of high-level officials from the Addis Ababa City Council, representatives of health associations, pharmaceutical manufacturers and suppliers, banking institutions, and technology experts.\nThis milestone marks a significant step forward in strengthening efficiency, transparency, and service quality within the pharmaceutical sector. The system is expected to enhance inventory management, financial control, regulatory compliance, and data-driven decision-making, ultimately improving access to safe, affordable, and reliable medicines for the public.\nThe launch reflects our strong commitment to digital transformation and cross-sector collaboration, bringing together public institutions, private partners, and technology leaders to support a sustainable and modern healthcare ecosystem in Addis Ababa.",
+        "Thank you everyone who engaged and part of these activities!",
+        "Here are the links...",
+        "https://kenemapharmacy.com",
+        "https://rx.kenemapharmacy.com/drugsearch.html",
+        "@DigitalEthiopia2030"
+      ],
+      "category": "Technology",
+      "date": "2026-01-15T17:04:41.607Z",
+      "image": "",
+      "featured": true,
+      "createdAt": "2026-01-15T17:11:02.002Z",
+      "updatedAt": "2026-01-15T17:11:02.002Z"
+    },
+    {
       "id": "1768295214297",
       "title": "asjhgj",
       "excerpt": "sdfgh",
@@ -39,5 +58,5 @@
       "updatedAt": "2025-12-27T18:53:08.879Z"
     }
   ],
-  "lastUpdated": "2026-01-15T17:04:49.919Z"
+  "lastUpdated": "2026-01-15T17:11:02.003Z"
 }

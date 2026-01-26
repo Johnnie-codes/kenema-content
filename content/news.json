@@ -32,17 +32,7 @@
       "featured": false,
       "createdAt": "2026-01-13T07:13:16.007Z",
       "updatedAt": "2026-01-13T07:13:16.007Z"
-    },
-    {
-      "id": "1766861588879",
-      "title": "hey",
-      "content": "hey",
-      "category": "announcement",
-      "date": "2025-12-27T18:51:04.094Z",
-      "image": "https://raw.githubusercontent.com/Johnnie-codes/kenema-content/main/images/1766861582087-ERD Diagram of Related Entities.png",
-      "createdAt": "2025-12-27T18:53:08.879Z",
-      "updatedAt": "2025-12-27T18:53:08.879Z"
     }
   ],
-  "lastUpdated": "2026-01-26T11:52:37.816Z"
+  "lastUpdated": "2026-01-26T11:57:26.493Z"
 }

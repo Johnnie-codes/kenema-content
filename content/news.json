@@ -1,19 +1,4 @@
 {
-  "items": [
-    {
-      "id": "1778105158618",
-      "title": "test",
-      "excerpt": "tes",
-      "content": [
-        "test"
-      ],
-      "category": "Community",
-      "date": "2026-05-06T22:03:45.608Z",
-      "image": "",
-      "featured": false,
-      "createdAt": "2026-05-06T22:05:58.618Z",
-      "updatedAt": "2026-05-06T22:05:58.618Z"
-    }
-  ],
-  "lastUpdated": "2026-05-06T22:05:58.618Z"
+  "items": [],
+  "lastUpdated": "2026-05-06T22:07:35.951Z"
 }
